@@ -26,3 +26,35 @@
 * Renomeando as referências e criando grupo para organizar
 
 ![6](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/b97215c5-30b3-4e12-9024-86aca4bbd716)
+
+2. Eliminando colunas
+
+* O objetivo dessa etapa é remover todas as colunas deixando somente a coluna com o nome da tabela.
+* Tabela categoria
+  
+![7](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/5a278cf1-dd20-40e8-a89d-3d0690b2349d)
+
+segue esse parão para todas as tabelas, tirando a tabela fato
+
+3. Eliminando registros duplicados
+
+* ultilizando remover duplicados na tabela categoria e nas demais.
+
+![8](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/8220be4d-c043-4872-a485-946a74f4b8c3)
+
+4. Adicionando chave artificial (SK) Surrogate key
+
+* adicionando coluna índice e renomenado para ID_Categoria, segue o mesmo padrão para as outras tabelas.
+
+![9](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/a562cf05-18f7-4a0b-85ba-957a354d6c75)
+
+5. Combinando/Mesclando os dados da tabela
+
+* Aqui nessa etapa irei ultilizar a opção mesclar consultas na tabela fato para fazer os Joins.
+
+![10](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/1cd77b7b-ea97-4602-aa01-eabfa5420053)
+
+* ID_Categoria na tabela Fato. Segue o mesmo padrão para as outras tabelas
+
+![11](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/a8ac6606-2e83-40bf-bf5f-b9785e029a08)
+
