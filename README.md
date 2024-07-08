@@ -64,7 +64,12 @@ segue esse parão para todas as tabelas, tirando a tabela fato
   
 ![desnormalizando dados power bi](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/dc1d55a2-507a-41c2-9168-1f6f9808bebe)
 
-7. Relacionamento entre fato e dimenção (xibição de Modelo)
+7. Relacionamento entre fato e dimenção (Exibição de Modelo)
+
+![12](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/099e3a2a-dd90-4a64-b937-bf1c95b939d1)
+
+8. Analise de performace medida implicita X Medidas explicitas
+
 
 
 
