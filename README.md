@@ -56,5 +56,16 @@ segue esse parão para todas as tabelas, tirando a tabela fato
 
 * ID_Categoria na tabela Fato. Segue o mesmo padrão para as outras tabelas
 
-![11](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/a8ac6606-2e83-40bf-bf5f-b9785e029a08)
+![11](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/a8ac6606-2e83-40bf-bf5f-b9785e029a08) 
+
+6. Eliminando colunas redundantes
+
+* com a introdução das colunas IDs é necessário remover as colunas redundantes
+  
+![desnormalizando dados power bi](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/dc1d55a2-507a-41c2-9168-1f6f9808bebe)
+
+7. Relacionamento entre fato e dimenção (xibição de Modelo)
+
+
+
 
