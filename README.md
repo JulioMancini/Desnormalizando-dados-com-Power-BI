@@ -68,8 +68,9 @@ segue esse parão para todas as tabelas, tirando a tabela fato
 
 ![12](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/099e3a2a-dd90-4a64-b937-bf1c95b939d1)
 
-8. Analise de performace medida implicita X Medidas explicitas
+8. Analise de performace 
 
+![13](https://github.com/JulioMancini/Desnormalizando-dados-com-Power-BI/assets/145502330/dbd1c7e2-9297-466d-af65-c1c2372e924b)
 
 
 
